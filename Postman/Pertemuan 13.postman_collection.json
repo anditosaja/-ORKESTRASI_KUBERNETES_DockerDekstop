@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "12240b95-9fe6-465c-baed-7dfec53f5546",
+    "name": "Pertemuan 13",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52618437",
+    "_collection_link": "https://go.postman.co/collection/52618437-12240b95-9fe6-465c-baed-7dfec53f5546?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "tes backend",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
