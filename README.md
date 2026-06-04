@@ -75,6 +75,7 @@ Pastikan status Pod menampilkan keterangan Running.
 ## ENDPOINT API & AKSES APLIKASI
 1. Service Backend (Node.js)
 Berjalan di http://localhost:30011
+
 |Method|	  Endpoint	                  |      Deskripsi                  |
 |------|-------------------------------|---------------------------------|
 |GET	  |http../api |	 Menampilkan response JSON: `{"message": "tes backend di kubernetes"}`
