@@ -44,7 +44,7 @@ fullstack/
     └── frontend-service.yaml
 ```
 
-## nstalasi & Build Image (Docker)
+## Instalasi & Build Image (Docker)
 Masuk ke folder project utama (fullstack), lalu jalankan perintah build image berikut di terminal. Karena menggunakan Docker Desktop, image ini akan otomatis terbaca oleh Kubernetes lokal tanpa perlu di-push ke Docker Hub.
 
 1. Build Image Backend
